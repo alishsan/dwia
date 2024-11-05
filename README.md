@@ -1,14 +1,14 @@
 # dwia
 
-FIXME: description
+Distorted Wave Impulse Approximation code
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/alishsan/dwia
 
 ## Usage
 
-FIXME: explanation
+
 
     $ java -jar dwia-0.1.0-standalone.jar [args]
 
