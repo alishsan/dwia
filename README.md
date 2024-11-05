@@ -12,9 +12,6 @@ Download from https://github.com/alishsan/dwia
 
     $ java -jar dwia-0.1.0-standalone.jar [args]
 
-## Options
-
-FIXME: listing of options this app accepts.
 
 ## Examples
 
@@ -24,13 +21,10 @@ FIXME: listing of options this app accepts.
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
-Copyright © 2024 FIXME
+Copyright © 2024 Alisher Sanetullaev
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
